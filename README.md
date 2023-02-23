@@ -1,4 +1,4 @@
-# arithmetic-coding-float
+# Arithmetic Coding Float
 
 # Faculty Of Computer And Artificial Intelligence Cairo University `FCAI-CU`
 
